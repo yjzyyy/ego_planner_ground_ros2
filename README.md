@@ -47,4 +47,4 @@ ros2 launch ego_planner run_in_sim.launch.py
 
 Ubuntu 22.04
 
-ROS 2 (具体版本请根据实际情况填写)
+ROS 2 (humble)
