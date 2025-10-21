@@ -40,11 +40,11 @@ ros2 launch vehicle_simulator system_indoor.launch
 source install/setup.bash
 ```
 # 启动规划器
-``
+```
 ros2 launch ego_planner run_in_sim.launch.py
 ```
 系统要求
 
-    Ubuntu 22.04
+Ubuntu 22.04
 
-    ROS 2 (具体版本请根据实际情况填写)
+ROS 2 (具体版本请根据实际情况填写)
