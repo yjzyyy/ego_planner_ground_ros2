@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-本项目基于 [原 ROS 版本项目名称] 修改适配为 ROS 2 版本，已在 Ubuntu 22.04 系统上完成测试。
+本项目基于 [ego-planner-for-ground-robot](https://github.com/Dangko/ego-planner-for-ground-robot) 修改适配为 ROS 2 版本，已在 Ubuntu 22.04 系统上完成测试。
 
 ## 注意事项
 
